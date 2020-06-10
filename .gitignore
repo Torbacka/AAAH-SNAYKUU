@@ -16,3 +16,4 @@ snaykuu
 # Intellij project files
 *.iml
 .idea/
+.gradle/
